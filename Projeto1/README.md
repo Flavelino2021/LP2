@@ -1,7 +1,7 @@
-Tecla r: Cria um retângulo
-Tecla e: Cria uma elipse
-Tecla t: Cria um triângulo
-Tecla a: Cria um arco
+Tecla r: Cria um retângulo<p>
+Tecla e: Cria uma elipse<p>
+Tecla t: Cria um triângulo<p>
+Tecla a: Cria um arco<p>
 
 Tecla 1: Muda a cor da figura selecionada para verde
 Tecla 2: Muda a cor da figura selecionada para vermelho
