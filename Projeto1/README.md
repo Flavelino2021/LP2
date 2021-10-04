@@ -7,8 +7,11 @@ Tecla t: Cria um triângulo
 Tecla a: Cria um arco
 
 Tecla 1: Muda a cor da figura selecionada para verde
+
 Tecla 2: Muda a cor da figura selecionada para vermelho
+
 Tecla 3: Muda a cor da figura selecionada para azul
+
 Tecla 4: Muda a cor da figura selecionada para rosa
 Tecla 5: Muda a cor da figura selecionada para preto
 Tecla 6: Muda a cor da figura selecionada para amarelo
